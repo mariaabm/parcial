@@ -1,0 +1,228 @@
+.uno1
+{
+position: absolute;
+	left: 290px;
+	bottom: 250px;
+	background: url(si.gif);
+	height: 500px;
+	width: 800px;
+	display: block;
+
+
+
+
+}
+.uno
+{
+
+display: none;
+
+
+}
+
+.dos
+{
+
+    position: absolute;
+	display: block;
+	top: 500px;
+	background-color: #F05B1F;
+	border-radius: 4px 3px 6px / 2px 4px;
+	width: 200px;
+	height: 70px;
+	text-align: center;
+	border-style: dashed;
+	left: 550px;
+
+}
+
+.dos:hover
+{
+
+    position: absolute;
+	display: block;
+	top: 500px;
+	background-color: #F1DC0A;
+	border-radius: 4px 3px 6px / 2px 4px;
+	width: 200px;
+	height: 70px;
+	text-align: center;
+	border-style: dashed;
+	left: 550px;
+
+}
+.dos2
+{
+display: none;
+
+}
+
+.tres3
+{
+
+
+position: absolute;
+	left: 290px;
+	bottom: 200px;
+	background: url(coso.jpeg);
+	height: 430px;
+	width: 772px;
+	display: block;
+
+
+}
+
+.tres
+{
+display: none;
+
+
+}
+.cuatro
+{
+
+	display: none;
+}
+
+.cuatro4
+{
+
+ position: absolute;
+	display: block;
+	top: 500px;
+	background-color: #1FF0B7;
+	border-radius: 4px 3px 6px / 2px 4px;
+	width: 200px;
+	height: 70px;
+	text-align: center;
+	border-style: dashed;
+	left: 550px;
+
+}
+.cuatro4:hover
+{
+
+ position: absolute;
+	display: block;
+	top: 500px;
+	background-color: #0A54F1;
+	border-radius: 4px 3px 6px / 2px 4px;
+	width: 200px;
+	height: 70px;
+	text-align: center;
+	border-style: dashed;
+	left: 550px;
+
+}
+
+.cinco5
+{
+
+
+position: absolute;
+	left: 290px;
+	bottom: 200px;
+	background: url(no.gif);
+	height: 500px;
+	width: 800px;
+	display: block;
+
+
+
+
+}
+
+.cinco
+{
+display: none;
+
+
+
+
+}
+.seis
+{
+background-color: red;
+position: absolute;
+width: 80px;
+height: 80px;
+top: 80px;
+left: 900px;
+opacity: 0;
+
+
+}
+.siete
+{
+background-color: blue;
+position: absolute;
+width: 60px;
+height: 50px;
+top: 350px;
+left: 435px;
+opacity: 0;
+
+}
+
+
+.ocho
+{
+background-color: green;
+position: absolute;
+width: 150px;
+height: 150px;
+top: 250px;
+left: 820px;
+opacity: 0;
+
+
+}
+.seis6
+{
+position: absolute;
+width: 180px;
+height: 180px;
+top: 30px;
+left: 850px;
+background: url('de.gif');
+
+
+
+}
+
+.siete7
+{
+
+
+position: absolute;
+width: 286px;
+height: 163px;
+top: 350px;
+left: 300px;
+background: url('ashura.gif');
+}
+
+.ocho8
+{
+position: absolute;
+width: 150px;
+height: 150px;
+top: 235px;
+left: 817px;
+background: url('indra.gif');
+
+
+}
+
+.a
+{
+	display: none;
+}
+.b
+{
+	display: none;
+}
+.c
+{
+	display: none;
+}
